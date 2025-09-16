@@ -1,4 +1,4 @@
-# Control-of-Relay-Using-IoT-controller
+# Control of Relay Using IoT controller
 # Name: Jesu Smartia A
 # Reg no: 212223110016
 ##  AIM:

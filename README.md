@@ -41,21 +41,24 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 ## PROGRAM:
 ```
 void setup() {
-pinMode(7, OUTPUT);
+pinMode(6, OUTPUT);
 }
 void loop() {
-digitalWrite(7, HIGH);
+digitalWrite(6, HIGH);
 delay(2000);
-digitalWrite(7, LOW);
+digitalWrite(6, LOW);
 delay(1000);
 }
 ```
 
 ## CIRCUIT DIAGRAM:
+<img width="1036" height="837" alt="Screenshot 2025-09-23 115703" src="https://github.com/user-attachments/assets/4eae6f79-45dc-44e8-99a5-e0bcac526261" />
 
 
 ## OUTPUT:
+<img width="1229" height="831" alt="Screenshot 2025-09-23 115500" src="https://github.com/user-attachments/assets/3f75a95f-5ab6-49d9-b8ff-78c4023341ce" />
 
+<img width="1227" height="832" alt="Screenshot 2025-09-23 115443" src="https://github.com/user-attachments/assets/f4cc1d74-0fd6-4c6f-be3c-84bbd37ec91d" />
 
 ## RESULT:
 
